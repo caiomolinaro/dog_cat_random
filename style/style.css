@@ -60,16 +60,4 @@ button{
     background-color: beige;
 }
 
-@media (max-width: 480px) {
-    img{
-        width: 200px;
-        height: 200px;
-    }
-  }
-
-  @media (max-width: 768px) {
-    img{
-        width: 350px;
-        height: 350px;
-    }
-  }
+/* =)*/
