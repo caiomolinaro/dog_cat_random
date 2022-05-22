@@ -46,5 +46,3 @@ catBtn.addEventListener('click', catLoadImg);
 
 dogLoadImg();
 catLoadImg();
-
-/* =)*/
